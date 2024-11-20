@@ -37,9 +37,18 @@ Lunar craters represent challenging terrain for 3D modeling due to their unique 
 1. **Blender 3.0+**: Install the latest version of Blender from [https://www.blender.org](https://www.blender.org).  
 2. **Python 3.8+**: Ensure Python is installed for running auxiliary scripts.  
 
-### Getting Started  
+## Citation  
 
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/lunar-crater-models.git  
-   cd lunar-crater-models  
+If you use this repository for your work, please cite:
+@inproceedings{lunarnrm-blender-models,  
+  title={Neural Radiance Methods for Terrain Modeling},  
+  author={Ellemieke Van Kints, Aiden Hammond, Caleb Adams, Ignacio Lopez-Francos},  
+  booktitle={2025 IEEE Aerospace Conference},  
+  year={2025},  
+  organization={IEEE}  
+}   
+
+## Acknowledgments  
+
+The research and development of these models were funded by the NASA Ames Office of the Center Chief Technologist (OCCT). Special thanks to **Midge "Mantissa" Sinnaeve** for the original models.
+
