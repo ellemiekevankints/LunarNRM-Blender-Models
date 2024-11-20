@@ -13,9 +13,23 @@ Lunar craters represent challenging terrain for 3D modeling due to their unique 
 ### Key Features  
 
 - **High-Resolution Models**: Realistic lunar craters with accurate geometric details.  
-- **Pre-configured Orbital Camera Systems**: Set up for easy simulation of orbital imaging scenarios.  
-- **Customizable Lighting Conditions**: Includes configurations for sun angle and shadow simulation.   
+- **Pre-configured Camera Systems**: Two configurations for hemispherical and orbital views.  
+- **Customizable Lighting Conditions**: Includes configurations for Sun angle and shadow simulation.
 
+## Repository Contents  
+
+- `Moonscape_Origin_Hemisphere/`  
+  - `.blend` file: A lunar crater model with cameras positioned in a hemisphere around the crater.  
+  - `.ply` file: The 3D model of the crater.  
+  - `.json` file: Contains the intrinsic and extrinsic camera information for the scene.  
+  - Python scripts: Embedded in the Blender file to generate cameras and render images.  
+
+- `Moonscape_Origin_Orbital/`  
+  - `.blend` file: A lunar crater model with orbital cameras positioned 617 km above the crater.  
+  - `.ply` file: The 3D model of the crater.  
+  - `.json` file: Contains the intrinsic and extrinsic camera information for the scene.  
+  - Python scripts: Embedded in the Blender file to generate cameras and render images.  
+ 
 ## Usage  
 
 ### Prerequisites  
