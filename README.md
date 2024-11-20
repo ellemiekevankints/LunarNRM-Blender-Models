@@ -51,5 +51,5 @@ If you use this repository for your work, please cite:
 
 ## Acknowledgments  
 
-The research and development of these models were funded by the NASA Ames Office of the Center Chief Technologist (OCCT). This work is also supported via a **Space Act Agreement** between the **University of Georgia** and **NASA Ames**. Special thanks to **Midge "Mantissa" Sinnaeve** for the original models.
+The research and development of these models were funded by the NASA Ames Office of the Center Chief Technologist (OCCT). This work is also supported via a **Space Act Agreement** between the University of Georgia and NASA Ames. Special thanks to **Midge "Mantissa" Sinnaeve** for the original models.
 
