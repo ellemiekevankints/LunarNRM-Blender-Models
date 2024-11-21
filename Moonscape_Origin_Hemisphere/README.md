@@ -1,4 +1,4 @@
-## Lunar Model with Hemisphere of Cameras
+## Lunar Crater Model with Hemisphere of Cameras
 
 The `.blend` file for this model can be accessed from the Google Drive folder linked below:
 
