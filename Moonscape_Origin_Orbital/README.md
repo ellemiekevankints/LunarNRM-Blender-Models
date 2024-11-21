@@ -1,4 +1,4 @@
-## Lunar Model with Orbital Cameras
+## Lunar Crater Model with Orbital Cameras
 
 The `.blend` file for this model can be accessed from the Google Drive folder linked below:
 
