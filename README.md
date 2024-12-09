@@ -42,7 +42,7 @@ Lunar craters represent challenging terrain for 3D modeling due to their unique 
 If you use this repository for your work, please cite:
 
 @inproceedings{lunarnrm-blender-models,  
-  title={Neural Radiance Methods for Terrain Modeling},  
+  title={Neural Radiance Methods for Lunar Terrain Modeling},  
   author={Ellemieke Van Kints, Aiden Hammond, Caleb Adams, Ignacio Lopez-Francos},  
   booktitle={2025 IEEE Aerospace Conference},  
   year={2025},  
