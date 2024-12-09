@@ -19,13 +19,13 @@ Lunar craters represent challenging terrain for 3D modeling due to their unique 
 ## Repository Contents  
 
 - `Moonscape_Origin_Hemisphere/`  
-  - `.blend` file: A lunar crater model with cameras positioned in a hemisphere around the crater.  
+  - `.blend` file: A lunar crater model with 100 cameras positioned in a hemisphere around the crater.  
   - `.ply` file: The 3D model of the crater.  
   - `.json` file: Contains the intrinsic and extrinsic camera information for the scene.  
   - Python scripts: Embedded in the Blender file to generate cameras and render images.  
 
 - `Moonscape_Origin_Orbital/`  
-  - `.blend` file: A lunar crater model with orbital cameras positioned 617 km above the crater.  
+  - `.blend` file: A lunar crater model with 20 orbital cameras positioned 617 km above the crater.  
   - `.ply` file: The 3D model of the crater.  
   - `.json` file: Contains the intrinsic and extrinsic camera information for the scene.  
   - Python scripts: Embedded in the Blender file to generate cameras and render images.  
