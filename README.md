@@ -1,14 +1,14 @@
 # Lunar Crater Blender Models  
 
-This repository contains Blender models of lunar craters used in the **2025 IEEE Aerospace Conference Paper: _Neural Radiance Methods for Lunar Terrain Modeling_**. These models were designed for simulating orbital camera systems and generating synthetic datasets to evaluate neural radiance field methods for lunar terrain reconstruction. The original models were developed by **Midge "Mantissa" Sinnaeve** and can be found [here](https://blendermarket.com/products/moonscapes). The models provided in this repository were modified to create lunar terrains with similar properties to the lunar South Pole. 
+This repository contains Blender models of lunar craters used in the **2025 IEEE Aerospace Conference Paper: _Neural Radiance Methods for Lunar Terrain Modeling_**. These models were designed for simulating orbital camera systems and generating synthetic datasets to evaluate neural radiance field (NeRF) methods for lunar terrain reconstruction. The original models were developed by **Midge "Mantissa" Sinnaeve** and can be found [here](https://blendermarket.com/products/moonscapes). The models provided in this repository were modified to create lunar terrains with similar properties to the lunar South Pole. 
 
 ## Overview  
 
-Lunar craters represent challenging terrain for 3D modeling due to their unique geometric and photometric properties. The Blender models in this repository were specifically crafted to support research on physically accurate 3D surface modeling and were utilized for the following purposes:  
+Lunar craters represent challenging terrain for 3D modeling due to their unique geometric and photometric properties. The Blender models in this repository were specifically crafted to support research on physically accurate 3D surface modeling. The models were utilized for the following purposes:  
 
 - Simulating orbital cameras to collect multi-view imagery.  
-- Testing neural radiance field (NeRF) methods for terrain modeling.  
-- Validating terrain reconstruction performance under varying illumination and view conditions.  
+- Testing NeRF methods for terrain modeling.  
+- Validating terrain reconstruction performance under varying illumination conditions.
 
 ### Key Features  
 
