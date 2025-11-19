@@ -7,8 +7,7 @@ This repository contains Blender models of lunar craters used in the **2025 IEEE
 Lunar craters represent challenging terrain for 3D modeling due to their unique geometric and photometric properties. The Blender models in this repository were specifically crafted to support research on physically accurate 3D surface modeling. The models were utilized for the following purposes:  
 
 - Simulating orbital cameras to collect multi-view imagery.  
-- Testing NeRF methods for terrain modeling.  
-- Validating terrain reconstruction performance under varying illumination conditions.
+- Validating NeRF methods at terrain reconstruction under varying illumination conditions.
 
 ### Key Features  
 
@@ -52,4 +51,5 @@ If you use this repository for your work, please cite:
 ## Acknowledgments  
 
 The research and development of these models were funded by the NASA Ames Office of the Center Chief Technologist (OCCT). This work is also supported via a **Space Act Agreement** between the University of Georgia and NASA Ames. Special thanks to **Midge "Mantissa" Sinnaeve** for the original models.
+
 
