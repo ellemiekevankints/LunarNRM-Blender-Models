@@ -1,6 +1,6 @@
 # Lunar Crater Blender Models  
 
-This repository contains Blender models of lunar craters used in the **2025 IEEE Aerospace Conference Paper: _Neural Radiance Methods for Lunar Terrain Modeling_**. These models were designed for simulating orbital camera systems and generating synthetic datasets to evaluate neural radiance field (NeRF) methods for lunar terrain reconstruction. The original models were developed by **Midge "Mantissa" Sinnaeve** and can be found [here](https://blendermarket.com/products/moonscapes). The models provided in this repository were modified to create lunar terrains with similar properties to the lunar South Pole. 
+This repository contains Blender models of lunar craters used in the **2025 IEEE Aerospace Conference Paper: _Neural Radiance Methods for Lunar Terrain Modeling_**. These models were designed for simulating orbital cameras and generating synthetic datasets to evaluate neural radiance field (NeRF) methods for lunar terrain reconstruction. The original models were developed by **Midge "Mantissa" Sinnaeve** and can be found [here](https://blendermarket.com/products/moonscapes). The models provided in this repository were modified to create lunar terrains with similar properties to the lunar South Pole. 
 
 ## Overview  
 
@@ -11,7 +11,7 @@ Lunar craters represent challenging terrain for 3D modeling due to their unique 
 
 ### Key Features  
 
-- **High-Resolution Models**: Realistic lunar craters with accurate geometric details.  
+- **High-Resolution Models**: Realistic lunar craters with albedo adjusted to the lunar South Pole.  
 - **Pre-configured Camera Systems**: Two configurations for hemispherical and orbital views.  
 - **Customizable Lighting Conditions**: Includes configurations for Sun angle and shadow simulation.
 
