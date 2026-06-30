@@ -11,7 +11,7 @@ Lunar craters represent challenging terrain for 3D modeling due to their unique 
 
 ### Key Features  
 
-- **High-Resolution Models**: Realistic lunar craters with albedo adjusted to the lunar South Pole.  
+- **High-Resolution Models**: Realistic lunar craters with albedo adjusted to match the lunar South Pole.  
 - **Pre-configured Camera Systems**: Two configurations for hemispherical and orbital views.  
 - **Customizable Lighting Conditions**: Includes configurations for Sun angle and shadow simulation.
 
